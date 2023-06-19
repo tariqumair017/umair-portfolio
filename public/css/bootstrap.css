@@ -10279,3 +10279,7 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+
+.fa-2x { 
+  font-size: 26px !important; 
+}
